@@ -123,6 +123,11 @@ const API_SITES = {
         api: 'https://Naixxzy.com/api.php/provide/vod',
         name: '奈奈',
         adult: true
+    },
+    xzy: {
+        api: 'https://xzybb1.com/api.php/provide/vod',
+        name: '幸资源',
+        adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
