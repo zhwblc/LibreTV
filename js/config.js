@@ -113,21 +113,6 @@ const API_SITES = {
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
-    },
-    t91: {
-        api: 'https://91jpzyw.com/api.php/provide/vod/at/json',
-        name: '91',
-        adult: true
-    },
-    nn: {
-        api: 'https://Naixxzy.com/api.php/provide/vod',
-        name: '奈奈',
-        adult: true
-    },
-    xzy: {
-        api: 'https://xzybb1.com/api.php/provide/vod',
-        name: '幸资源',
-        adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
